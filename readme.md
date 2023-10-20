@@ -44,7 +44,10 @@ Our learning path is organized into the following sections:
 
 Each section will have its own set of tutorials, code examples, and projects to help reinforce your learning.
 
+### Async Javascript
 
+Youtube videos:
+1. https://youtu.be/ZYb_ZU8LNxs?si=cmzjCJfLs8rJwNOm by freecodecamp
 
 
 ## Contributing
